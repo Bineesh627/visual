@@ -1,3 +1,12 @@
+1, write a program to add two numbers.?
+
+	Dim a, b, c As Integer
+	
+	a = TextBox1.Text
+	b = TextBox2.Text
+	c = a + b
+	TextBox3.Text = c
+
 2, write a program to check wheather a number is odd or even.?
 
         Dim a As Integer
